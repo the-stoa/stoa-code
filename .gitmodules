@@ -1,6 +1,3 @@
-[submodule "python/introduction/functions-and-libraries"]
-	path = python/introduction/functions-and-libraries
-	url = https://github.com/the-stoa/functions-and-libraries
-[submodule "python/introduction/functions-and-introduction"]
-	path = python/introduction/functions-and-introduction
+[submodule "python/introduction/functions-and-libraries-2"]
+	path = python/introduction/functions-and-libraries-2
 	url = git@github.com:the-stoa/functions-and-libraries-2.git
