@@ -1,0 +1,3 @@
+[submodule "python/introduction/functions-and-libraries"]
+	path = python/introduction/functions-and-libraries
+	url = https://github.com/the-stoa/functions-and-libraries
