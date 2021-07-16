@@ -1,3 +1,6 @@
 [submodule "python/introduction/functions-and-libraries-2"]
 	path = python/introduction/functions-and-libraries-2
 	url = git@github.com:the-stoa/functions-and-libraries-2.git
+[submodule "python/introduction/loops"]
+	path = python/introduction/loops
+	url = https://github.com/the-stoa/loops
