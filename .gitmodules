@@ -4,3 +4,9 @@
 [submodule "python/introduction/loops"]
 	path = python/introduction/loops
 	url = https://github.com/the-stoa/loops
+[submodule "python/introduction/recursion"]
+	path = python/introduction/recursion
+	url = git@github.com:the-stoa/recursion.git
+[submodule "python/introduction/dictionaries"]
+	path = python/introduction/dictionaries
+	url = git@github.com:the-stoa/dictionaries.git
