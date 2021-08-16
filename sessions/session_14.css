@@ -1,0 +1,15 @@
+.center-text {
+    text-align: center;
+}
+.high-padding {
+  padding: 50px;
+}
+.d-boss{
+  width: 1000px;
+  transform: skewY(180deg);
+  transition: 1s
+}
+.d-boss:hover{
+  transform: skewY(20deg);
+  transition: 1s
+}
